@@ -1,0 +1,41 @@
+body {
+  width: 100%;
+}
+
+h1, h3{
+  color: white;
+  margin-left: 30px;
+}
+
+
+
+a { color: white;
+}
+
+#UF3 {
+  margin-top: -70;
+}
+
+#titulo {
+  color: white;
+  margin-top: 9px;
+  margin-left: 700px;
+  font-size: 50px;
+  position:relative;
+}
+
+#lista {
+  margin-top: 20px;
+}
+
+li {
+  text-decoration-color: white;
+height: 70px;
+width: 120px;
+background-color: black;
+opacity: 40%;
+margin-top: 19px;
+margin-left: 10px;
+border-radius: 5% 10% 30% 5%;
+text-align: center;
+}
