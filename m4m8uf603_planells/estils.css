@@ -1,0 +1,38 @@
+
+#Header {
+  width: 0 auto;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+}
+
+div {
+  float: left;
+}
+
+.cuadros:hover {
+  opacity: 50%;
+}
+
+.cuadros {
+width: 100px;
+height: 100px;
+
+}
+
+#uno {
+  background-color: cyan;
+}
+
+#dos {
+  background-color: cyan;
+}
+
+#tres {
+  background-color: cyan;
+}
+
+#cuatro {
+
+  background-color: cyan;
+}
