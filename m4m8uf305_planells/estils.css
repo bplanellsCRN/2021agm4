@@ -1,0 +1,48 @@
+body {
+  background-color: lightblue;
+}
+
+#divgrande {
+  height: 1000px;
+  background-color: white;
+  margin: 25px 25px 0px 25px;
+
+}
+
+#titulo {
+  text-align: center;
+}
+
+#img1 {
+  float: left;
+  height: 200px;
+  width: 300px;
+  margin: 0px 10px 0px 25px;
+  }
+
+.texto1 {
+  margin-left: 337.25px;
+  margin-right: 25px;
+  }
+
+#linia1 {
+  text-indent: 15px;
+}
+
+
+#linia2 {
+  text-align: center;
+  }
+
+#img2 {
+  float: right;
+  position: relative;
+  width: 300px;
+  height: 450px;
+  margin-right: 25px;
+  }
+
+#texto2 {
+  margin: 0px 337.25px 0px 25px;
+  text-align: justify;
+  }
