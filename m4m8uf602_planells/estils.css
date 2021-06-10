@@ -1,0 +1,17 @@
+body {
+  background-color:cyan;
+}
+
+h1 {
+  text-align: center;
+}
+
+#contenedor {
+  background-color: lightblue;
+  margin: 0 auto;
+  width: 250px;
+}
+
+input {
+margin: 10px;
+}
