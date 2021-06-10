@@ -4,6 +4,9 @@ body {
   background-position: center;
   background-size: contain;
   margin-top: 20px;
+}
+
+body {
   margin: 0;
   padding: 0;
 }
