@@ -6,6 +6,11 @@
   margin-top: 20px;
 }
 
+body {
+margin: 0;
+  padding: 0;
+}
+
 #header {
   width: auto;
   height: 125px;
