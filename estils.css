@@ -1,9 +1,8 @@
 #background {
-  width: auto;
+  width: 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  margin-top: 20px;
 }
 
 body {
